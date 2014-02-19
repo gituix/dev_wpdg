@@ -1,0 +1,12 @@
+#slideshow{position:relative;background-color:#000;margin:0 auto}
+#slides{overflow:hidden;background-color:#000;margin:0 auto;padding:0}
+#controls{z-index:50;position:absolute;left:-18px;margin:0;padding:0}
+.bt2{float:right;margin:0;padding:0}
+#slideshow .slide{width:100%;height:100%;background-color:#d2e2e5;display:none}
+#slideshow .slide-content{display:none;color:#FFF;background-color:#000;z-index:89;opacity:0.7}
+.slide-content a{color:#EFE9D1;text-decoration:underline}
+#slideshow .sliderheading{display:block;font-size:26px;padding-bottom:10px;font-weight:400}
+#slideshow .slidercontent{padding-top:0}
+#slideshow .slide-content p{line-height:18px}
+.slide-image{float:left}
+.slide-content{margin:0;padding:10px 10px 5px}

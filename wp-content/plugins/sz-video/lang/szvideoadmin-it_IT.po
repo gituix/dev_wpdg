@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: szvideo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-26 10:53-0500\n"
+"PO-Revision-Date: 2013-03-26 10:53-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /home/massimo/Files/wordpress/svn/sz-video/trunk\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sz-video-shortcode.php:432
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: sz-video-shortcode.php:433
+msgid "is not activated"
+msgstr "non è attivato"
+
+#: sz-video-shortcode.php:446
+msgid "Video URL specified is not valid"
+msgstr "Indirizzo del video specificato non è valido"
+
+#: sz-video-admin.php:39
+#: sz-video-admin.php:155
+msgid "Configuration"
+msgstr "Configurazione"
+
+#: sz-video-admin.php:43
+msgid "Player HTML5"
+msgstr "Player HTML5"
+
+#: sz-video-admin.php:57
+msgid "Activation shortcode"
+msgstr "Attivazione shortcode"
+
+#: sz-video-admin.php:58
+#: sz-video-admin.php:59
+#: sz-video-admin.php:60
+#: sz-video-admin.php:61
+msgid "Activation"
+msgstr "Attivazione"
+
+#: sz-video-admin.php:63
+msgid "General configuration"
+msgstr "Configurazione generale"
+
+#: sz-video-admin.php:64
+msgid "Warning deactivation"
+msgstr "Attenzione su disattivazione"
+
+#: sz-video-admin.php:65
+msgid "HTTP/HTTPS conversion"
+msgstr "HTTP/HTTPS conversione"
+
+#: sz-video-admin.php:66
+msgid "Tags Schema.org"
+msgstr "Tags Schema.org"
+
+#: sz-video-admin.php:68
+msgid "Activation editor icons"
+msgstr "Attivazione icone su editor"
+
+#: sz-video-admin.php:69
+#: sz-video-admin.php:70
+#: sz-video-admin.php:71
+#: sz-video-admin.php:72
+#: sz-video-admin.php:73
+msgid "Add icon"
+msgstr "Aggiungi icona"
+
+#: sz-video-admin.php:76
+#: sz-video-admin.php:92
+#: sz-video-admin.php:108
+msgid "Default method of the embed"
+msgstr "Metodo predefinito per tecnica embed"
+
+#: sz-video-admin.php:77
+#: sz-video-admin.php:93
+#: sz-video-admin.php:109
+msgid "Loading embed"
+msgstr "Caricamento codice"
+
+#: sz-video-admin.php:79
+#: sz-video-admin.php:95
+#: sz-video-admin.php:111
+#: sz-video-admin.php:132
+msgid "Default size of the video"
+msgstr "Dimensioni predefinite del video"
+
+#: sz-video-admin.php:80
+#: sz-video-admin.php:96
+#: sz-video-admin.php:112
+#: sz-video-admin.php:133
+msgid "Responsive Design"
+msgstr "Responsive Design"
+
+#: sz-video-admin.php:81
+#: sz-video-admin.php:97
+#: sz-video-admin.php:113
+#: sz-video-admin.php:134
+#: mce/sz-video-mce.php:15
+msgid "Video width"
+msgstr "Video larghezza"
+
+#: sz-video-admin.php:82
+#: sz-video-admin.php:98
+#: sz-video-admin.php:114
+#: sz-video-admin.php:135
+#: mce/sz-video-mce.php:17
+msgid "Video height"
+msgstr "Video altezza"
+
+#: sz-video-admin.php:84
+#: sz-video-admin.php:100
+#: sz-video-admin.php:116
+#: sz-video-admin.php:137
+msgid "Default margins of the video"
+msgstr "Margini predefiniti del video"
+
+#: sz-video-admin.php:85
+#: sz-video-admin.php:101
+#: sz-video-admin.php:117
+#: sz-video-admin.php:138
+#: mce/sz-video-mce.php:18
+msgid "Top margin"
+msgstr "Margine alto"
+
+#: sz-video-admin.php:86
+#: sz-video-admin.php:102
+#: sz-video-admin.php:118
+#: sz-video-admin.php:139
+#: mce/sz-video-mce.php:19
+msgid "Right margin"
+msgstr "Margine destro"
+
+#: sz-video-admin.php:87
+#: sz-video-admin.php:103
+#: sz-video-admin.php:119
+#: sz-video-admin.php:140
+#: mce/sz-video-mce.php:20
+msgid "Bottom margin"
+msgstr "Margine basso"
+
+#: sz-video-admin.php:88
+#: sz-video-admin.php:104
+#: sz-video-admin.php:120
+#: sz-video-admin.php:141
+#: mce/sz-video-mce.php:21
+msgid "Left margin"
+msgstr "Margine sinistro"
+
+#: sz-video-admin.php:89
+#: sz-video-admin.php:105
+#: sz-video-admin.php:121
+#: sz-video-admin.php:142
+#: mce/sz-video-mce.php:22
+msgid "Units"
+msgstr "Unità"
+
+#: sz-video-admin.php:124
+msgid "Default design of the video"
+msgstr "Disegno predefinito del video"
+
+#: sz-video-admin.php:125
+msgid "Player type"
+msgstr "Tipo player"
+
+#: sz-video-admin.php:127
+msgid "Select video to add the tag [video]"
+msgstr "Seleziona video da aggiungere al tag [video]"
+
+#: sz-video-admin.php:128
+msgid "Video WEBM"
+msgstr "Video WEBM"
+
+#: sz-video-admin.php:129
+msgid "Video MP4"
+msgstr "Video MP4"
+
+#: sz-video-admin.php:130
+msgid "Video OGV"
+msgstr "Video OGV"
+
+#: sz-video-admin.php:231
+msgid "Youtube configuration"
+msgstr "Configurazione Youtube"
+
+#: sz-video-admin.php:238
+#: sz-video-admin.php:247
+#: sz-video-admin.php:309
+#: sz-video-admin.php:318
+#: sz-video-admin.php:380
+#: sz-video-admin.php:389
+#: sz-video-admin.php:476
+msgid "Yes"
+msgstr "Si"
+
+#: sz-video-admin.php:239
+#: sz-video-admin.php:248
+#: sz-video-admin.php:310
+#: sz-video-admin.php:319
+#: sz-video-admin.php:381
+#: sz-video-admin.php:390
+#: sz-video-admin.php:477
+msgid "No"
+msgstr "No"
+
+#: sz-video-admin.php:302
+msgid "Vimeo configuration"
+msgstr "Configurazione Vimeo"
+
+#: sz-video-admin.php:373
+msgid "DailyMotion configuration"
+msgstr "Configurazione DailyMotion"
+
+#: sz-video-admin.php:444
+msgid "Player HTML5 configuration"
+msgstr "Configurazione Player HTML5"
+
+#: sz-video-admin.php:451
+msgid "minimalist"
+msgstr "minimale"
+
+#: sz-video-admin.php:452
+msgid "functional"
+msgstr "funzionale"
+
+#: sz-video-admin.php:453
+msgid "full"
+msgstr "completo"
+
+#: sz-video-admin.php:533
+msgid "Overriding the default settings with your own specific preferences"
+msgstr "Modifica le impostazione predefinite secondo le tue esigenze"
+
+#: sz-video-admin.php:540
+msgid "Save Changes"
+msgstr "Salva modifiche"
+
+#: sz-video-widgets.php:18
+msgid "Widget for SZ-Video plugin"
+msgstr "Widget per SZ-Video plugin"
+
+#: sz-video-widgets.php:20
+msgid "SZ-Video"
+msgstr "SZ-Video"
+
+#: sz-video-widgets.php:121
+msgid "Title:"
+msgstr "Titolo:"
+
+#: sz-video-widgets.php:123
+msgid "URL:"
+msgstr "URL:"
+
+#: sz-video-widgets.php:125
+msgid "Cover:"
+msgstr "Cover:"
+
+#: sz-video-widgets.php:127
+msgid "Method:"
+msgstr "Metodo:"
+
+#: sz-video-widgets.php:129
+msgid "Embed code delayed"
+msgstr "Codice Embed ritardato"
+
+#: sz-video-widgets.php:130
+msgid "Embed code immed"
+msgstr "Codice Embed immediato"
+
+#: sz-video-widgets.php:132
+msgid "User Data:"
+msgstr "Dati utente:"
+
+#: mce/sz-video-mce.php:13
+msgid "URL"
+msgstr "URL"
+
+#: mce/sz-video-mce.php:14
+msgid "Video"
+msgstr "Video"
+
+#: mce/sz-video-mce.php:16
+msgid "Cover URL"
+msgstr "indirizzo URL cover image"
+
+#: mce/sz-video-mce.php:23
+msgid "Responsive"
+msgstr "Responsive"
+
+#: mce/sz-video-mce.php:24
+msgid "address of video"
+msgstr "indirizzo del video da pubblicare"
+
+#: mce/sz-video-mce.php:25
+msgid "Size of the video"
+msgstr "Dimensione del video"
+
+#: mce/sz-video-mce.php:26
+msgid "Margins of the video"
+msgstr "Margini del video"
+
+#: mce/sz-video-mce.php:27
+msgid "Attributes of the video"
+msgstr "Attributi del video"
+
+#: mce/sz-video-mce.php:28
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: mce/sz-video-mce.php:29
+msgid "Loop"
+msgstr "Loop"
+
+#: mce/sz-video-mce.php:30
+msgid "Float"
+msgstr "Float"
+
+#: mce/sz-video-mce.php:31
+msgid "remove"
+msgstr "rimuovi"
+
+#: mce/sz-video-mce.php:32
+msgid "insert"
+msgstr "inserisci"
+
+#: mce/sz-video-mce.php:33
+msgid "default"
+msgstr "default"
+
+#: mce/sz-video-mce.php:34
+msgid "yes"
+msgstr "Si"
+
+#: mce/sz-video-mce.php:35
+msgid "no"
+msgstr "no"
+
+#: mce/sz-video-mce.php:36
+msgid "none"
+msgstr "none"
+
+#: mce/sz-video-mce.php:37
+msgid "right"
+msgstr "destra"
+
+#: mce/sz-video-mce.php:38
+msgid "left"
+msgstr "sinistra"
+
+#: mce/sz-video-mce.php:39
+msgid "Other parameters"
+msgstr "Altri parametri"
+
+#: mce/sz-video-mce.php:40
+msgid "Method"
+msgstr "Metodo"
+
+#: mce/sz-video-mce.php:41
+msgid "Only URL"
+msgstr "Solo URL"
+
+#: mce/sz-video-mce.php:42
+msgid "Ratio"
+msgstr "Ratio"
+
+#: mce/sz-video-mce.php:43
+msgid "User Data"
+msgstr "Dati utente"
+
+#: mce/sz-video-mce.php:44
+msgid "Schema.org"
+msgstr "Schema.org"
+
+#: mce/sz-video-mce.php:118
+msgid "Video - Youtube"
+msgstr "Video - Youtube"
+
+#: mce/sz-video-mce.php:159
+msgid "Video - Vimeo"
+msgstr "Video - Vimeo"
+
+#: mce/sz-video-mce.php:200
+msgid "Video - DailyMotion"
+msgstr "Video - DailyMotion"
+
+#: mce/sz-video-mce.php:241
+msgid "Video - Player"
+msgstr "Video - Player"
+
+#~ msgid "Streaming"
+#~ msgstr "Streaming"
+
+#~ msgid "Streaming configuration"
+#~ msgstr "Configurazione Streaming"
+
+#~ msgid "Video Streaming"
+#~ msgstr "Video Streaming"
+
+#~ msgid "Shortcode Video is not activated"
+#~ msgstr "Shortcode Video non è attivato"
+
+#~ msgid "Shortcode Streaming is not activated"
+#~ msgstr "Shortcode Streaming non è attivato"
+
+#~ msgid "Software type"
+#~ msgstr "Tipo software"
+
+#~ msgid "Content delivery network"
+#~ msgstr "Distribuzione contenuti"
+
+#~ msgid "Default Network URL"
+#~ msgstr "URL di rete predefiniti"
+
+#~ msgid "URL Amazon CloudFront"
+#~ msgstr "URL Amazon CloudFront"
+
+#~ msgid "insert a valid address network"
+#~ msgstr "inserire un indirizzo di rete valido"
+
+#~ msgid "Shortcode Youtube is not activated"
+#~ msgstr "Shortcode Youtube non è attivato"
+
+#~ msgid "Responsive Size"
+#~ msgstr "Dimensione Responsive"
+
+#~ msgid "size of the video"
+#~ msgstr "dimensione del video"
+
+#~ msgid "margins of the video"
+#~ msgstr "margini del video"
+
+#~ msgid "Default player for display video"
+#~ msgstr "Player predefinito per la visualizzazione del video"

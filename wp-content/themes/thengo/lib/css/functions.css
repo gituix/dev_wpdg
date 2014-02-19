@@ -1,0 +1,54 @@
+.rm_wrap{width:90%}
+.tpo_panels{border-top-left-radius:10px 10px;border-top-right-radius:10px 10px;background:#F1F1F1;border-color:#E3E3E3;border-style:solid;border-width:1px}
+.tpo_admin_op label{font-size:12px;font-weight:700;width:180px;display:block;float:left}
+.tpo_post_admin_input label{font-size:12px;font-weight:700;width:100%;display:block;float:left;padding-bottom:4px}
+.tpo_admin_input{background:#fff;border-bottom:1px solid #fff;border-top:1px solid #ddd;padding:13px 25px}
+.tpo_post_admin_input{background:#FAFAFA;border:1px solid #ddd;width:95%;margin:20px 0 0 6px;padding:13px 10px}
+.tpo_admin_op small{display:block;float:right;width:200px;color:#999}
+.tpo_admin_op input[type=text],.tpo_admin_op select{font-size:12px;color:#333;line-height:1em;background:#fff;padding:4px}
+.tpo_admin_input input[type=text],.tpo_admin_input select{width:280px}
+.tpo_post_admin_input input[type=text],.tpo_admin_input select{width:250px}
+.tpo_post_admin_input small{display:block;float:none;font-size:11px;color:#000}
+.tpo_admin_input textarea{width:280px;height:175px;font-size:12px;color:#333;line-height:1.5em;background:#f3f3f3;padding:4px}
+.tpo_post_admin_input textarea{width:460px;height:175px;font-size:12px;color:#333;line-height:1.5em;background:#fff;padding:4px}
+.tpo_admin_panel_title{cursor:pointer;background:#F1F1F1;margin:5px;padding:5px 0 0}
+.tpo_admin_panel_title h3{border:none;cursor:pointer;font-size:1em;text-transform:uppercase;font-weight:700;color:#232323;float:left;width:50%;margin:0;padding:7px 4px}
+.tpo_admin_panel_title h3 img.inactive{width:32px;height:32px;border:none;background:url(../images/pointer.png) no-repeat 0 0;float:left;margin:-8px 10px 0 2px}
+.tpo_admin_panel_title h3 img.active{width:32px;height:32px;background:url(../images/pointer.png) no-repeat 0 -32px;float:left;border:none;margin:-8px 10px 0 2px}
+.tpo_admin_panel_title span.tpoadminsubmit{display:block;float:right;margin:0 15px 0 0; }
+.tpo_admin_custom{background:#fff;padding:13px}
+.tpo_admin_op img{margin:20px 0 0}
+.clearfix{clear:both}
+.rm_table th,.rm_table td{border:1px solid #bbb;text-align:center;padding:10px}
+.rm_table th,.rm_table td.feature{border-color:#888}
+input.tpo_admin_button{-webkit-box-sizing:content-box;border-bottom-left-radius:11px 11px;border-bottom-right-radius:11px 11px;border-top-left-radius:11px 11px;border-top-right-radius:11px 11px;cursor:pointer;font-size:11px!important;line-height:13px;text-decoration:none;border-style:solid;border-width:1px;padding:7px 28px}
+.tpo_ajax_image{width:200px;display:block}
+.tpo_admin_op input,select,textarea{margin:0 0 0 0px}
+.tpo_post_admin_input input,select,textarea{margin:0}
+#slide-show input{width:200px}
+#tpo_admin_wrap .tpoadminajaxsave{position:absolute;-moz-border-radius:12px;background:rgba(0,0,0,0.4);color:#fff;font-size:24px;text-align:center;display:none;z-index:999}
+#tpo_admin_wrap .tposaveimg{background:url(../images/save_icon.png) 20px 50% no-repeat;z-index:999;padding:30px 30px 30px 70px}
+#adminmenu #menu-posts-slideshow:hover div.wp-menu-image{background-position:-121px -1px}
+#adminmenu #menu-posts-slideshow div.wp-menu-image{background-position:-121px -33px}
+#editorcontainer #tpo_homepage_contents{-webkit-box-sizing:border-box;border:0 none;line-height:150%;outline:none;resize:vertical;padding:6px}
+#tpo_homepage_contents{width:100%;background-color:#fff;margin:0}
+#media-buttons img,#submitpost #ajax-loading{margin-top:0}
+input[type=text].cpickerinput{margin-top:5px;float:left;width:130px}
+.tpo_admin_input input:focus,.tpo_admin_input textarea:focus,.tpo_post_admin_input input:focus,.tpo_post_admin_input textarea:focus{background:#fff}
+span.tpo_admin_button,span.tpo_image_upload,span.tpo_image_remove{background:#F2F2F2 url(../images/white-grad.png) repeat-x scroll 0 0;text-shadow:#FFF 0 1px 0;-webkit-box-sizing:content-box;border-bottom-left-radius:14px 14px;border-bottom-right-radius:14px 14px;border-top-left-radius:14px 14px;border-top-right-radius:14px 14px;cursor:pointer;font-size:10px!important;line-height:12px;text-decoration:none;float:left;color:#000;border-color:#666;border-style:solid;border-width:1px;margin:5px 10px 0 0;padding:7px 15px}
+.tpo_admin_op input[type=text].input_numeric,.tpo_admin_op input[type=text].inputscroll{width:60px}
+.banner_text{background: #f7f6f6;padding: 5px;border-top: 1px solid #cccccc;border-left: 1px solid #cccccc;width: 100%;}
+.button-red{background: #FFEBE8 !important;border: 1px solid #CC0000 !important;text-shadow: 0 1px 0 #fff !important;color: #CC0000 !important;}
+.trial-message {
+	margin-top:30px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	padding: 10px;
+	background: #3b5382;
+	color: #fff;
+}
+.trial-message a {
+	color:#fff;	
+}

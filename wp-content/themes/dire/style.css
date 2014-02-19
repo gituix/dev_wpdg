@@ -1,0 +1,241 @@
+/*
+Theme Name: sanita.dire.it
+Theme URI: http://www.giovanidomani/wordpress/
+Description: Customized theme for sanita.dire.it.
+Author: Stefano Uix Felici
+Author URI: http://www.facebook.com/stefano.felici
+Version: 0.1b
+Tags: sanita, dire, salute, agenzia, stampa, medici, congressi, societ�, comunicazione, malattie, patologie, curarsi
+
+License:
+License URI:
+
+General comments (optional).
+*/
+/*
+Default hex color table:
+	-- e5e5e5 
+	-- bf0000
+	-- 7f7f7f
+*/
+hr{
+	size: 1px;	
+}
+.search{
+	color: red; 
+}
+@CHARSET "UTF-8";
+body {
+	background-color: #cccccc;
+	padding: 0px;
+	font-family: trebuchet MS;	
+	font-weight: normal;
+	font-size: 12px;
+	color: #6f6f6f;
+	text-decoration: none;	
+}
+body a{
+	font-family: trebuchet MS;	
+	font-weight: bold;
+	color: #6f6f6f;
+	text-decoration: none;	
+}
+.entry-content a:hover{
+	font-family: trebuchet MS;	
+	font-weight: bold;
+	color: #bf0000;
+	text-decoration: none;	
+}
+
+.clear{
+	clear:both;
+}
+#site_content{
+	position: relative;
+	margin: 0px auto;
+	width: 960px;
+	background-color: #fff;
+	border: 1px solid #000;
+	overflow: auto;
+}
+#col-sx{
+	positin:relative;
+	float:left;
+	min-height:800px;
+}
+#col-dx{
+	position: relative;
+	float:left;
+}
+#flag{
+	position:relative;
+	width: 960px;
+	height: 15px;
+	background-image: url('images/h-f-flag.png');
+	background-repeat:repeat-y;
+}
+#logo{
+	position: relative;
+	margin:10px 0px 10px 10px;
+	width: 630px;
+	height: 100px;
+	background-image: url(images/logo.jpg);
+	background-repeat:no-repeat;
+}
+#left{
+	position: relative;
+	float: left;
+	padding: 5px;
+	width:190px;
+}
+.menu, .menu a{
+	margin: 0px;	
+	color: #000;
+}
+.menu a:hover{
+	padding:0px;
+	color: #bf0000;	
+}
+
+.menu ul{
+	padding: 0px;
+}
+.menu li{
+	list-style-type: none;
+	line-height: auto;
+	margin: 0px 0px 5px 0px;
+	width:180px;
+	padding:5px;
+	color: #000;
+	border-bottom: 2px solid #bf0000;
+	text-decoration: none;
+}
+#banner_left{
+	text-align: center;
+}
+#center{
+	position: relative;
+	float: left;
+	padding: 5px;
+	width:450px;
+}
+#center #slide li{
+	border: 0px;
+}
+.last-news{
+	padding:0px;	
+	list-style-type: none;
+}
+#slide  li{
+	list-style-type: none;
+	line-height: 20px;
+	margin: 0px 0px 15px 0px;
+	font-family: trebuchet MS;	
+	font-weight: normal;
+	font-size: 14px;
+	color: #6f6f6f;
+	border-bottom: 2px solid #999;
+	text-decoration: none;
+}
+.entry-content, ul{
+	list-style-type: square;	
+}
+#last-news-spacer{
+	margin: 10px 0px 10px 0px;
+	padding: 5px;
+	color: #333;
+	font-size: 20px;
+	border-top: 2px solid #333;
+	border-bottom: 2px solid #333;
+}
+#right{
+	position: relative;
+	text-align:center;
+	float: left;
+	padding: 5px;
+	width:283px;
+}
+.entry-meta{
+	text-align: right;
+	background-color: #d0d0d0;
+}
+#footer{
+	position:relative;
+	width: 100%;
+	display: none;
+}
+#box{
+	height: 200px;
+	overflow: auto;
+	border: 1px solid #C61920;
+	font-size:10px;
+	color:#000;
+}
+
+/* W I D G E T   c u s t o m  */
+
+.eventi{
+	text-align:right;
+	background-image: url('images/calendario.jpg');
+	background-repeat:no-repeat;
+}
+
+/* F O R M A T T A Z I O N I  */
+
+.jcarousel-skin-slide-home{
+	margin: -20px 0px 0px 0px;
+	color: #bf0000;
+	font-family: trebuchet MS;	
+	font-weight: bold;
+	font-size: 18px;	
+}
+.slider-item-image{
+	margin: 0px 0px 15px 0px;
+}
+.title{
+	color: #0174DF;
+	font-family: trebuchet MS;	
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.title_sing{
+	color: #0174DF;
+	font-family: trebuchet MS;	
+	font-weight: bold;
+	font-size: 18px;
+}
+.excerpt{
+	font-family: trebuchet MS;	
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 14px;
+}
+img.alignright {float:right; margin:0 0 1em 1em}
+img.alignleft {float:left; margin:0 1em 1em 0}
+img.aligncenter {display: block; margin-left: auto; margin-right: auto}
+.alignright {float:right; }
+.alignleft {float:left; }
+.aligncenter {display: block; margin-left: auto; margin-right: auto}
+
+.event{
+	border-bottom: 1px dashed #666;
+	margin: 0px 0px 10px 0px;
+	padding:5px;
+}
+#events{
+	padding: 0px;
+}
+#events a{
+	color:#dd0000;
+}
+.ticket-desc{
+}
+.em-booking-form{
+	overflow: auto;
+	margin-top: -30px;
+}
+.sociable{
+	margin: -10px 5px 15px auto;
+	float:right;
+}
