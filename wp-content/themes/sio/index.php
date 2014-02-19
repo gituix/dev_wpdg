@@ -11,6 +11,7 @@
  		echo $current_user->user_password ?> 
  		
  </div>
+ asdasd
  <? 
  $myrows = $wpdb->get_results( "SELECT * 
 								FROM  `wp_sio_schede` 
